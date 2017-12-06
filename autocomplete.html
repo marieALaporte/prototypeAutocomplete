@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>jQuery UI Autocomplete - Default functionality</title>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  $( function() {
+    var agrovoc;
+    var agrovoc = (function () {
+      var json = null;
+      $.ajax({
+          'async': false,
+          'global': false,
+          'url': "data/agrovoc.json",
+          'dataType': "json",
+          'success': function (data) {
+              json = data;
+          }
+      });
+    return json;
+    })();
+    var arrAgrovoc = $.map(agrovoc["results"]["bindings"], function(el) { 
+      return el["label"]["value"] + " - " + el["uri"]["value"].split("http://aims.fao.org/aos/agrovoc/")[1];
+    });
+    console.log(arrAgrovoc)
+
+
+
+    //http://www.cropontology.org/brapi/v1/traits/CO_321?pageSize=334
+    var co;
+    var co = (function () {
+      var json = null;
+      $.ajax({
+          'async': false,
+          'type': "GET",
+          'url': "http://www.cropontology.org/brapi/v1/traits/CO_321?pageSize=334",
+          'dataType': "json",
+          'success': function (data) {
+              json = data;
+          }
+      });
+    return json;
+    })();
+    var arrCO = $.map(co["result"], function(el) { 
+      return el["name"] +" - "+ el["traitId"];
+    });
+    console.log(arrCO)
+
+    var arr = arrAgrovoc.concat(arrCO)
+    $( "#tags" ).autocomplete({
+      max:10,
+      minLength:3,
+      source: arr
+    });
+  } );
+  </script>
+</head>
+<body>
+ 
+<div class="ui-widget">
+  <label for="tags">Keyword: </label>
+  <input id="tags">
+</div>
+ 
+ 
+</body>
+</html>
