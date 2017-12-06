@@ -1,0 +1,3175 @@
+{
+"metadata": {
+"pagination": {
+"pageSize": 333,
+"currentPage": 0,
+"totalCount": 333,
+"totalPages": 1
+},
+"status": [],
+"datafiles": []
+},
+"result": [
+{
+"traitDbId": "CO_321:0000005",
+"traitId": "CO_321:0000005",
+"name": "Aboveground biomass at maturity",
+"observationVariables": [
+"CO_321:0001034",
+"CO_321:0001035",
+"CO_321:0001036",
+"CO_321:0001037",
+"CO_321:0001038",
+"CO_321:0001039"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000006",
+"traitId": "CO_321:0000006",
+"name": "Canopy temperature depression",
+"observationVariables": [
+"CO_321:0001095"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000007",
+"traitId": "CO_321:0000007",
+"name": "Heading time",
+"observationVariables": [
+"CO_321:0001233",
+"CO_321:0001234",
+"CO_321:0001235",
+"CO_321:0001236"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000009",
+"traitId": "CO_321:0000009",
+"name": "Plant early vigour",
+"observationVariables": [
+"CO_321:0001299"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000011",
+"traitId": "CO_321:0000011",
+"name": "Grain germination",
+"observationVariables": [
+"CO_321:0001191"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000012",
+"traitId": "CO_321:0000012",
+"name": "Grain moisture content",
+"observationVariables": [
+"CO_321:0001198"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000013",
+"traitId": "CO_321:0000013",
+"name": "Grain yield",
+"observationVariables": [
+"CO_321:0001217",
+"CO_321:0001218",
+"CO_321:0001219",
+"CO_321:0001220",
+"CO_321:0001221",
+"CO_321:0001222",
+"CO_321:0001223"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000014",
+"traitId": "CO_321:0000014",
+"name": "Crop ground cover",
+"observationVariables": [
+"CO_321:0001103",
+"CO_321:0001104"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000015",
+"traitId": "CO_321:0000015",
+"name": "Plant growth habit",
+"observationVariables": [
+"CO_321:0001300"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000016",
+"traitId": "CO_321:0000016",
+"name": "Growth stage",
+"observationVariables": [
+"CO_321:0001228"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000017",
+"traitId": "CO_321:0000017",
+"name": "Grain number",
+"observationVariables": [
+"CO_321:0001199"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000018",
+"traitId": "CO_321:0000018",
+"name": "Leaf stomatal conductance",
+"observationVariables": [
+"CO_321:0001272"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000020",
+"traitId": "CO_321:0000020",
+"name": "Plant height",
+"observationVariables": [
+"CO_321:0001301",
+"CO_321:0001302",
+"CO_321:0001303"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000021",
+"traitId": "CO_321:0000021",
+"name": "Emergence time",
+"observationVariables": [
+"CO_321:0001122",
+"CO_321:0001123"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000022",
+"traitId": "CO_321:0000022",
+"name": "Maturity time",
+"observationVariables": [
+"CO_321:0001287",
+"CO_321:0001288",
+"CO_321:0001289",
+"CO_321:0001290",
+"CO_321:0001291"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000025",
+"traitId": "CO_321:0000025",
+"name": "Grain weight",
+"observationVariables": [
+"CO_321:0001213",
+"CO_321:0001214",
+"CO_321:0001215"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000026",
+"traitId": "CO_321:0000026",
+"name": "Awn length",
+"observationVariables": [
+"CO_321:0001052"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000027",
+"traitId": "CO_321:0000027",
+"name": "Spike awnedness",
+"observationVariables": [
+"CO_321:0001361"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000028",
+"traitId": "CO_321:0000028",
+"name": "Leaf chlorophyll content",
+"observationVariables": [
+"CO_321:0001256"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000029",
+"traitId": "CO_321:0000029",
+"name": "Coleoptile length",
+"observationVariables": [
+"CO_321:0001099"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000031",
+"traitId": "CO_321:0000031",
+"name": "Glume color",
+"observationVariables": [
+"CO_321:0001168"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000032",
+"traitId": "CO_321:0000032",
+"name": "Glume length",
+"observationVariables": [
+"CO_321:0001170"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000033",
+"traitId": "CO_321:0000033",
+"name": "Glume pubescence density",
+"observationVariables": [
+"CO_321:0001171"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000034",
+"traitId": "CO_321:0000034",
+"name": "Glume pubescence length",
+"observationVariables": [
+"CO_321:0001172"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000035",
+"traitId": "CO_321:0000035",
+"name": "Glume glaucousness",
+"observationVariables": [
+"CO_321:0001169"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000036",
+"traitId": "CO_321:0000036",
+"name": "Glume width",
+"observationVariables": [
+"CO_321:0001173"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000037",
+"traitId": "CO_321:0000037",
+"name": "Grain color",
+"observationVariables": [
+"CO_321:0001183",
+"CO_321:0001184",
+"CO_321:0001185",
+"CO_321:0001186",
+"CO_321:0001187"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000038",
+"traitId": "CO_321:0000038",
+"name": "Grain number per spike",
+"observationVariables": [
+"CO_321:0001200"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000039",
+"traitId": "CO_321:0000039",
+"name": "Grain plumpness",
+"observationVariables": [
+"CO_321:0001204"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000040",
+"traitId": "CO_321:0000040",
+"name": "Grain size",
+"observationVariables": [
+"CO_321:0001209",
+"CO_321:0001470",
+"CO_321:0001471",
+"CO_321:0001472",
+"CO_321:0001473",
+"CO_321:0001474",
+"CO_321:0001475",
+"CO_321:0001476",
+"CO_321:0001477",
+"CO_321:0001478",
+"CO_321:0001479",
+"CO_321:0001480",
+"CO_321:0001481"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000041",
+"traitId": "CO_321:0000041",
+"name": "Grain number per spikelet",
+"observationVariables": [
+"CO_321:0001201"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000042",
+"traitId": "CO_321:0000042",
+"name": "Grain vitreousness",
+"observationVariables": [
+"CO_321:0001212"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000044",
+"traitId": "CO_321:0000044",
+"name": "Leaf length",
+"observationVariables": [
+"CO_321:0001259"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000045",
+"traitId": "CO_321:0000045",
+"name": "Leaf pubescence density",
+"observationVariables": [
+"CO_321:0001260"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000046",
+"traitId": "CO_321:0000046",
+"name": "Leaf pubescence length",
+"observationVariables": [
+"CO_321:0001261"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000047",
+"traitId": "CO_321:0000047",
+"name": "Leaf thickness",
+"observationVariables": [
+"CO_321:0001276"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000048",
+"traitId": "CO_321:0000048",
+"name": "Leaf glaucousness",
+"observationVariables": [
+"CO_321:0001257",
+"CO_321:0001258"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000049",
+"traitId": "CO_321:0000049",
+"name": "Leaf width",
+"observationVariables": [
+"CO_321:0001278"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000050",
+"traitId": "CO_321:0000050",
+"name": "Peduncle neck break",
+"observationVariables": [
+"CO_321:0001297"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000051",
+"traitId": "CO_321:0000051",
+"name": "Node number",
+"observationVariables": [
+"CO_321:0001294"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000052",
+"traitId": "CO_321:0000052",
+"name": "Peduncle length",
+"observationVariables": [
+"CO_321:0001296"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000053",
+"traitId": "CO_321:0000053",
+"name": "Peduncle pubescence density",
+"observationVariables": [
+"CO_321:0001298"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000054",
+"traitId": "CO_321:0000054",
+"name": "Peduncle glaucousness",
+"observationVariables": [
+"CO_321:0001295"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000055",
+"traitId": "CO_321:0000055",
+"name": "Spike density",
+"observationVariables": [
+"CO_321:0001362"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000056",
+"traitId": "CO_321:0000056",
+"name": "Spike length",
+"observationVariables": [
+"CO_321:0001364"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000057",
+"traitId": "CO_321:0000057",
+"name": "Spike shattering",
+"observationVariables": [
+"CO_321:0001367"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000058",
+"traitId": "CO_321:0000058",
+"name": "Spikelet number",
+"observationVariables": [
+"CO_321:0001369"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000059",
+"traitId": "CO_321:0000059",
+"name": "Canopy stay green",
+"observationVariables": [
+"CO_321:0001092"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000060",
+"traitId": "CO_321:0000060",
+"name": "Stem length",
+"observationVariables": [
+"CO_321:0001378"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000061",
+"traitId": "CO_321:0000061",
+"name": "Stem solidness",
+"observationVariables": [
+"CO_321:0001385"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000062",
+"traitId": "CO_321:0000062",
+"name": "Stem diameter",
+"observationVariables": [
+"CO_321:0001377"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000063",
+"traitId": "CO_321:0000063",
+"name": "Leaf stomatal resistance",
+"observationVariables": [
+"CO_321:0001274"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000064",
+"traitId": "CO_321:0000064",
+"name": "Cookie spread factor",
+"observationVariables": [
+"CO_321:0001102"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000065",
+"traitId": "CO_321:0000065",
+"name": "Bread crumb structure",
+"observationVariables": [
+"CO_321:0001079"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000066",
+"traitId": "CO_321:0000066",
+"name": "Flour falling number",
+"observationVariables": [
+"CO_321:0001133"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000067",
+"traitId": "CO_321:0000067",
+"name": "Flour protein content",
+"observationVariables": [
+"CO_321:0001136",
+"CO_321:0001137"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000068",
+"traitId": "CO_321:0000068",
+"name": "Flour yield",
+"observationVariables": [
+"CO_321:0001141"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000069",
+"traitId": "CO_321:0000069",
+"name": "Flour gluten content",
+"observationVariables": [
+"CO_321:0001134"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000070",
+"traitId": "CO_321:0000070",
+"name": "Flour gluten type",
+"observationVariables": [
+"CO_321:0001135"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000071",
+"traitId": "CO_321:0000071",
+"name": "Whole meal flour falling number",
+"observationVariables": [
+"CO_321:0001421"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000072",
+"traitId": "CO_321:0000072",
+"name": "Grain hardness",
+"observationVariables": [
+"CO_321:0001192",
+"CO_321:0001193",
+"CO_321:0001194",
+"CO_321:0001195"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000073",
+"traitId": "CO_321:0000073",
+"name": "Grain protein content",
+"observationVariables": [
+"CO_321:0001205",
+"CO_321:0001206"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000074",
+"traitId": "CO_321:0000074",
+"name": "Semolina protein content",
+"observationVariables": [
+"CO_321:0001334",
+"CO_321:0001335"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000075",
+"traitId": "CO_321:0000075",
+"name": "Semolina color",
+"observationVariables": [
+"CO_321:0001333"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000078",
+"traitId": "CO_321:0000078",
+"name": "Acid soil tolerance",
+"observationVariables": [
+"CO_321:0001040"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000079",
+"traitId": "CO_321:0000079",
+"name": "Aluminum tolerance",
+"observationVariables": [
+"CO_321:0001045"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000080",
+"traitId": "CO_321:0000080",
+"name": "Cold tolerance",
+"observationVariables": [
+"CO_321:0001097",
+"CO_321:0001098"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000081",
+"traitId": "CO_321:0000081",
+"name": "Sprouting tolerance",
+"observationVariables": [
+"CO_321:0001376"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000082",
+"traitId": "CO_321:0000082",
+"name": "Alternaria leaf blight plant response",
+"observationVariables": [
+"CO_321:0001044"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000084",
+"traitId": "CO_321:0000084",
+"name": "Ant damage",
+"observationVariables": [
+"CO_321:0001046"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000085",
+"traitId": "CO_321:0000085",
+"name": "Aphid damage",
+"observationVariables": [
+"CO_321:0001049",
+"CO_321:0001050"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000086",
+"traitId": "CO_321:0000086",
+"name": "Armyworm damage",
+"observationVariables": [
+"CO_321:0001051"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000087",
+"traitId": "CO_321:0000087",
+"name": "Bird damage",
+"observationVariables": [
+"CO_321:0001070",
+"CO_321:0001071"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000088",
+"traitId": "CO_321:0000088",
+"name": "Hessian fly damage",
+"observationVariables": [
+"CO_321:0001243"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000089",
+"traitId": "CO_321:0000089",
+"name": "Insect damage",
+"observationVariables": [
+"CO_321:0001251",
+"CO_321:0001252"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000090",
+"traitId": "CO_321:0000090",
+"name": "Rodent damage",
+"observationVariables": [
+"CO_321:0001326"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000091",
+"traitId": "CO_321:0000091",
+"name": "Russian wheat aphid damage",
+"observationVariables": [
+"CO_321:0001329"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000092",
+"traitId": "CO_321:0000092",
+"name": "Sawfly damage",
+"observationVariables": [
+"CO_321:0001331"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000093",
+"traitId": "CO_321:0000093",
+"name": "Snail damage",
+"observationVariables": [
+"CO_321:0001358"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000094",
+"traitId": "CO_321:0000094",
+"name": "Suni pest damage",
+"observationVariables": [
+"CO_321:0001399"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000095",
+"traitId": "CO_321:0000095",
+"name": "Barley stripe mosaic incidence",
+"observationVariables": [
+"CO_321:0001066"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000096",
+"traitId": "CO_321:0000096",
+"name": "Barley yellow dwarf incidence",
+"observationVariables": [
+"CO_321:0001067",
+"CO_321:0001068",
+"CO_321:0001069"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000097",
+"traitId": "CO_321:0000097",
+"name": "Black point incidence",
+"observationVariables": [
+"CO_321:0001072",
+"CO_321:0001073"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000099",
+"traitId": "CO_321:0000099",
+"name": "Tilletia laevis bunt incidence",
+"observationVariables": [
+"CO_321:0001414"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000100",
+"traitId": "CO_321:0000100",
+"name": "Tilletia tritici bunt incidence",
+"observationVariables": [
+"CO_321:0001415"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000101",
+"traitId": "CO_321:0000101",
+"name": "Dwarf bunt incidence",
+"observationVariables": [
+"CO_321:0001121"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000102",
+"traitId": "CO_321:0000102",
+"name": "Eyespot plant response",
+"observationVariables": [
+"CO_321:0001124"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000103",
+"traitId": "CO_321:0000103",
+"name": "Flag smut plant response",
+"observationVariables": [
+"CO_321:0001129"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000106",
+"traitId": "CO_321:0000106",
+"name": "Karnal bunt incidence",
+"observationVariables": [
+"CO_321:0001253"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000110",
+"traitId": "CO_321:0000110",
+"name": "Seed gall nematode damage",
+"observationVariables": [
+"CO_321:0001332"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000111",
+"traitId": "CO_321:0000111",
+"name": "Cyst nematode damage",
+"observationVariables": [
+"CO_321:0001106"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000112",
+"traitId": "CO_321:0000112",
+"name": "Pratylenchus neglectus damage",
+"observationVariables": [
+"CO_321:0001321"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000113",
+"traitId": "CO_321:0000113",
+"name": "Pratylenchus thornei damage",
+"observationVariables": [
+"CO_321:0001322"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000115",
+"traitId": "CO_321:0000115",
+"name": "Southern blight plant response",
+"observationVariables": [
+"CO_321:0001360"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000119",
+"traitId": "CO_321:0000119",
+"name": "Take all incidence",
+"observationVariables": [
+"CO_321:0001400",
+"CO_321:0001401"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000121",
+"traitId": "CO_321:0000121",
+"name": "Anthesis time",
+"observationVariables": [
+"CO_321:0001047",
+"CO_321:0001048"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000123",
+"traitId": "CO_321:0000123",
+"name": "Harvest index",
+"observationVariables": [
+"CO_321:0001231",
+"CO_321:0001232"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000124",
+"traitId": "CO_321:0000124",
+"name": "Bread loaf volume",
+"observationVariables": [
+"CO_321:0001080"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000126",
+"traitId": "CO_321:0000126",
+"name": "Hail damage",
+"observationVariables": [
+"CO_321:0001229",
+"CO_321:0001230"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000127",
+"traitId": "CO_321:0000127",
+"name": "Frost damage",
+"observationVariables": [
+"CO_321:0001143",
+"CO_321:0001144",
+"CO_321:0001145",
+"CO_321:0001146",
+"CO_321:0001147"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000128",
+"traitId": "CO_321:0000128",
+"name": "Waterlogging damage",
+"observationVariables": [
+"CO_321:0001417"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000131",
+"traitId": "CO_321:0000131",
+"name": "Drought tolerance",
+"observationVariables": [
+"CO_321:0001119",
+"CO_321:0001120"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000132",
+"traitId": "CO_321:0000132",
+"name": "Salinity tolerance",
+"observationVariables": [
+"CO_321:0001330"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000141",
+"traitId": "CO_321:0000141",
+"name": "Flag leaf area",
+"observationVariables": [
+"CO_321:0001127"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000142",
+"traitId": "CO_321:0000142",
+"name": "Leaf stomatal size",
+"observationVariables": [
+"CO_321:0001275"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000143",
+"traitId": "CO_321:0000143",
+"name": "Leaf stomatal frequency",
+"observationVariables": [
+"CO_321:0001273"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000144",
+"traitId": "CO_321:0000144",
+"name": "Dough alveograph value W",
+"observationVariables": [
+"CO_321:0001115"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000145",
+"traitId": "CO_321:0000145",
+"name": "Dough alveograph P/L",
+"observationVariables": [
+"CO_321:0001111"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000146",
+"traitId": "CO_321:0000146",
+"name": "Flour SDS sedimentation",
+"observationVariables": [
+"CO_321:0001138"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000147",
+"traitId": "CO_321:0000147",
+"name": "Whole meal flour SDS sedimentation",
+"observationVariables": [
+"CO_321:0001422"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000149",
+"traitId": "CO_321:0000149",
+"name": "Dough Mixograph mixing time",
+"observationVariables": [
+"CO_321:0001116"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000152",
+"traitId": "CO_321:0000152",
+"name": "Glutenin Glu-A1 composition",
+"observationVariables": [
+"CO_321:0001174"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000153",
+"traitId": "CO_321:0000153",
+"name": "Glutenin Glu-B1 composition",
+"observationVariables": [
+"CO_321:0001176"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000154",
+"traitId": "CO_321:0000154",
+"name": "Glutenin Glu-D1 composition",
+"observationVariables": [
+"CO_321:0001178"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000155",
+"traitId": "CO_321:0000155",
+"name": "Glutenin Glu-A3 composition",
+"observationVariables": [
+"CO_321:0001175"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000156",
+"traitId": "CO_321:0000156",
+"name": "Glutenin Glu-B3 composition",
+"observationVariables": [
+"CO_321:0001177"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000157",
+"traitId": "CO_321:0000157",
+"name": "Glutenin Glu-D3 composition",
+"observationVariables": [
+"CO_321:0001179"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000158",
+"traitId": "CO_321:0000158",
+"name": "Translocation 1BL/1RS",
+"observationVariables": [
+"CO_321:0001416"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000159",
+"traitId": "CO_321:0000159",
+"name": "Grain test weight",
+"observationVariables": [
+"CO_321:0001210",
+"CO_321:0001211"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000160",
+"traitId": "CO_321:0000160",
+"name": "Flour SDS sedimentation index",
+"observationVariables": [
+"CO_321:0001139"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000161",
+"traitId": "CO_321:0000161",
+"name": "Root lesion nematode damage",
+"observationVariables": [
+"CO_321:0001328"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000162",
+"traitId": "CO_321:0000162",
+"name": "Agronomic score",
+"observationVariables": [
+"CO_321:0001041",
+"CO_321:0001042",
+"CO_321:0001043"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000164",
+"traitId": "CO_321:0000164",
+"name": "Winter kill damage",
+"observationVariables": [
+"CO_321:0001424",
+"CO_321:0001425",
+"CO_321:0001426"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000165",
+"traitId": "CO_321:0000165",
+"name": "Spike sterility index",
+"observationVariables": [
+"CO_321:0001389",
+"CO_321:0001390"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000166",
+"traitId": "CO_321:0000166",
+"name": "Spike number",
+"observationVariables": [
+"CO_321:0001365",
+"CO_321:0001366",
+"CO_321:0001599"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000167",
+"traitId": "CO_321:0000167",
+"name": "Lodging incidence",
+"observationVariables": [
+"CO_321:0001279",
+"CO_321:0001280",
+"CO_321:0001281",
+"CO_321:0001282",
+"CO_321:0001283",
+"CO_321:0001284"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000168",
+"traitId": "CO_321:0000168",
+"name": "Fusarium wilt incidence",
+"observationVariables": [
+"CO_321:0001167"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000170",
+"traitId": "CO_321:0000170",
+"name": "Net blotch incidence",
+"observationVariables": [
+"CO_321:0001292"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000173",
+"traitId": "CO_321:0000173",
+"name": "Soil borne mosaic incidence",
+"observationVariables": [
+"CO_321:0001359"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000174",
+"traitId": "CO_321:0000174",
+"name": "Grain yellow berry incidence",
+"observationVariables": [
+"CO_321:0001216"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000175",
+"traitId": "CO_321:0000175",
+"name": "Leaf tip necrosis incidence",
+"observationVariables": [
+"CO_321:0001277"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000176",
+"traitId": "CO_321:0000176",
+"name": "Heat tolerance",
+"observationVariables": [
+"CO_321:0001237"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000177",
+"traitId": "CO_321:0000177",
+"name": "Stem rust plant response",
+"observationVariables": [
+"CO_321:0001381"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000178",
+"traitId": "CO_321:0000178",
+"name": "Leaf rust plant response",
+"observationVariables": [
+"CO_321:0001266",
+"CO_321:0001267",
+"CO_321:0001268"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000179",
+"traitId": "CO_321:0000179",
+"name": "Stripe rust plant response",
+"observationVariables": [
+"CO_321:0001394",
+"CO_321:0001395"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000182",
+"traitId": "CO_321:0000182",
+"name": "Double ridge time",
+"observationVariables": [
+"CO_321:0001107",
+"CO_321:0001108"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000183",
+"traitId": "CO_321:0000183",
+"name": "First node detectable time",
+"observationVariables": [
+"CO_321:0001125",
+"CO_321:0001126"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000184",
+"traitId": "CO_321:0000184",
+"name": "Leaf area index",
+"observationVariables": [
+"CO_321:0001254"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000186",
+"traitId": "CO_321:0000186",
+"name": "Plant hybrid necrosis incidence",
+"observationVariables": [
+"CO_321:0001304"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000187",
+"traitId": "CO_321:0000187",
+"name": "Plant stand",
+"observationVariables": [
+"CO_321:0001306",
+"CO_321:0001307",
+"CO_321:0001308",
+"CO_321:0001309"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000189",
+"traitId": "CO_321:0000189",
+"name": "Tillering capacity",
+"observationVariables": [
+"CO_321:0001413"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000190",
+"traitId": "CO_321:0000190",
+"name": "Tiller number",
+"observationVariables": [
+"CO_321:0001410",
+"CO_321:0001411",
+"CO_321:0001412",
+"CO_321:0001598"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000191",
+"traitId": "CO_321:0000191",
+"name": "Booting time",
+"observationVariables": [
+"CO_321:0001074",
+"CO_321:0001075",
+"CO_321:0001076",
+"CO_321:0001077"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000193",
+"traitId": "CO_321:0000193",
+"name": "Canopy temperature",
+"observationVariables": [
+"CO_321:0001094"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000194",
+"traitId": "CO_321:0000194",
+"name": "Flag leaf senescence",
+"observationVariables": [
+"CO_321:0001128"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000195",
+"traitId": "CO_321:0000195",
+"name": "Grain carbon isotope discrimination",
+"observationVariables": [
+"CO_321:0001182"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000196",
+"traitId": "CO_321:0000196",
+"name": "Leaf carbon isotope discrimination",
+"observationVariables": [
+"CO_321:0001255"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000197",
+"traitId": "CO_321:0000197",
+"name": "Canopy normalized pheophytinization index",
+"observationVariables": [
+"CO_321:0001082"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000198",
+"traitId": "CO_321:0000198",
+"name": "Canopy normalized water index 1",
+"observationVariables": [
+"CO_321:0001083"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000199",
+"traitId": "CO_321:0000199",
+"name": "Canopy normalized water index 2",
+"observationVariables": [
+"CO_321:0001084"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000200",
+"traitId": "CO_321:0000200",
+"name": "Canopy normalized water index 3",
+"observationVariables": [
+"CO_321:0001085"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000201",
+"traitId": "CO_321:0000201",
+"name": "Canopy normalized water index 4",
+"observationVariables": [
+"CO_321:0001086"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000202",
+"traitId": "CO_321:0000202",
+"name": "Canopy photochemical reflectance index",
+"observationVariables": [
+"CO_321:0001087"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000203",
+"traitId": "CO_321:0000203",
+"name": "Canopy ratio analysis of reflectance spectra  carotenoid",
+"observationVariables": [
+"CO_321:0001088"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000204",
+"traitId": "CO_321:0000204",
+"name": "Canopy ratio analysis of reflectance spectra chlorophyll  a",
+"observationVariables": [
+"CO_321:0001089"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000205",
+"traitId": "CO_321:0000205",
+"name": "Canopy ratio analysis of reflectance spectra chlorophyll  b",
+"observationVariables": [
+"CO_321:0001090"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000206",
+"traitId": "CO_321:0000206",
+"name": "Canopy simple ratio",
+"observationVariables": [
+"CO_321:0001091"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000207",
+"traitId": "CO_321:0000207",
+"name": "Stem water soluble carbohydrate",
+"observationVariables": [
+"CO_321:0001388",
+"CO_321:0001608",
+"CO_321:0001609"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000208",
+"traitId": "CO_321:0000208",
+"name": "Canopy structural independent pigment index",
+"observationVariables": [
+"CO_321:0001093"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000209",
+"traitId": "CO_321:0000209",
+"name": "Canopy water index",
+"observationVariables": [
+"CO_321:0001096"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000210",
+"traitId": "CO_321:0000210",
+"name": "Dough alveograph extensibility index",
+"observationVariables": [
+"CO_321:0001109"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000211",
+"traitId": "CO_321:0000211",
+"name": "Dough alveograph value G",
+"observationVariables": [
+"CO_321:0001112"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000212",
+"traitId": "CO_321:0000212",
+"name": "Dough alveograph value L",
+"observationVariables": [
+"CO_321:0001113"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000213",
+"traitId": "CO_321:0000213",
+"name": "Dough alveograph value P",
+"observationVariables": [
+"CO_321:0001114"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000214",
+"traitId": "CO_321:0000214",
+"name": "Flour color",
+"observationVariables": [
+"CO_321:0001130",
+"CO_321:0001131",
+"CO_321:0001132"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000221",
+"traitId": "CO_321:0000221",
+"name": "Grain end use type",
+"observationVariables": [
+"CO_321:0001188"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000222",
+"traitId": "CO_321:0000222",
+"name": "Grain Iron content",
+"observationVariables": [
+"CO_321:0001196",
+"CO_321:0001197"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000223",
+"traitId": "CO_321:0000223",
+"name": "Grain Phosphorous content",
+"observationVariables": [
+"CO_321:0001202",
+"CO_321:0001203"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000224",
+"traitId": "CO_321:0000224",
+"name": "Grain Zinc content",
+"observationVariables": [
+"CO_321:0001225",
+"CO_321:0001226"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000225",
+"traitId": "CO_321:0000225",
+"name": "Dough mixograph torque",
+"observationVariables": [
+"CO_321:0001117"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000227",
+"traitId": "CO_321:0000227",
+"name": "Whole meal flour color",
+"observationVariables": [
+"CO_321:0001418",
+"CO_321:0001419",
+"CO_321:0001420"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000228",
+"traitId": "CO_321:0000228",
+"name": "Dough mixograph type",
+"observationVariables": [
+"CO_321:0001118"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000281",
+"traitId": "CO_321:0000281",
+"name": "Common bunt spike incidence",
+"observationVariables": [
+"CO_321:0001100"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000301",
+"traitId": "CO_321:0000301",
+"name": "Canopy normalized difference vegetation index",
+"observationVariables": [
+"CO_321:0001081"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000345",
+"traitId": "CO_321:0000345",
+"name": "Tan spot plant response",
+"observationVariables": [
+"CO_321:0001404"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000393",
+"traitId": "CO_321:0000393",
+"name": "In-season aboveground biomass",
+"observationVariables": [
+"CO_321:0001246",
+"CO_321:0001247",
+"CO_321:0001248",
+"CO_321:0001249",
+"CO_321:0001250",
+"CO_321:0001651"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000395",
+"traitId": "CO_321:0000395",
+"name": "Dough alveograph P/G",
+"observationVariables": [
+"CO_321:0001110"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000406",
+"traitId": "CO_321:0000406",
+"name": "Net blotch severity",
+"observationVariables": [
+"CO_321:0001293",
+"CO_321:0001443"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000407",
+"traitId": "CO_321:0000407",
+"name": "Crop growth rate",
+"observationVariables": [
+"CO_321:0001105",
+"CO_321:0001597"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000642",
+"traitId": "CO_321:0000642",
+"name": "Grain retention",
+"observationVariables": [
+"CO_321:0001207"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000643",
+"traitId": "CO_321:0000643",
+"name": "Grain screenings",
+"observationVariables": [
+"CO_321:0001208"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000644",
+"traitId": "CO_321:0000644",
+"name": "Infertile tiller number",
+"observationVariables": [
+"CO_321:0001244",
+"CO_321:0001245"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000645",
+"traitId": "CO_321:0000645",
+"name": "Grain yield factor",
+"observationVariables": [
+"CO_321:0001224"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000647",
+"traitId": "CO_321:0000647",
+"name": "Barley leaf rust severity",
+"observationVariables": [
+"CO_321:0001061",
+"CO_321:0001062"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000649",
+"traitId": "CO_321:0000649",
+"name": "Common root rot incidence",
+"observationVariables": [
+"CO_321:0001101"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000650",
+"traitId": "CO_321:0000650",
+"name": "Tan spot severity",
+"observationVariables": [
+"CO_321:0001406",
+"CO_321:0001407",
+"CO_321:0001449"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000651",
+"traitId": "CO_321:0000651",
+"name": "Fusarium head blight AUDPC",
+"observationVariables": [
+"CO_321:0001153"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000652",
+"traitId": "CO_321:0000652",
+"name": "Fusarium head blight DON content",
+"observationVariables": [
+"CO_321:0001154"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000653",
+"traitId": "CO_321:0000653",
+"name": "Fusarium leaf blotch severity",
+"observationVariables": [
+"CO_321:0001165",
+"CO_321:0001166",
+"CO_321:0001441"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000654",
+"traitId": "CO_321:0000654",
+"name": "Fusarium head blight spike weight",
+"observationVariables": [
+"CO_321:0001160"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000655",
+"traitId": "CO_321:0000655",
+"name": "Foliar disease development",
+"observationVariables": [
+"CO_321:0001142"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000656",
+"traitId": "CO_321:0000656",
+"name": "Grain appearance",
+"observationVariables": [
+"CO_321:0001180",
+"CO_321:0001181"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000657",
+"traitId": "CO_321:0000657",
+"name": "Stem strength",
+"observationVariables": [
+"CO_321:0001386"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000658",
+"traitId": "CO_321:0000658",
+"name": "Stem wall thickness",
+"observationVariables": [
+"CO_321:0001387"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000659",
+"traitId": "CO_321:0000659",
+"name": "Spike threshability",
+"observationVariables": [
+"CO_321:0001368"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000664",
+"traitId": "CO_321:0000664",
+"name": "Grain filling period",
+"observationVariables": [
+"CO_321:0001189",
+"CO_321:0001190"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000665",
+"traitId": "CO_321:0000665",
+"name": "Growth class",
+"observationVariables": [
+"CO_321:0001227"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000668",
+"traitId": "CO_321:0000668",
+"name": "Reproductive period",
+"observationVariables": [
+"CO_321:0001323",
+"CO_321:0001324"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000670",
+"traitId": "CO_321:0000670",
+"name": "Plant vegetative period",
+"observationVariables": [
+"CO_321:0001310",
+"CO_321:0001311"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000672",
+"traitId": "CO_321:0000672",
+"name": "Plant photoperiod response",
+"observationVariables": [
+"CO_321:0001305"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000673",
+"traitId": "CO_321:0000673",
+"name": "Flour yellowness",
+"observationVariables": [
+"CO_321:0001140"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000674",
+"traitId": "CO_321:0000674",
+"name": "Semolina yellow pigment content",
+"observationVariables": [
+"CO_321:0001336"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000677",
+"traitId": "CO_321:0000677",
+"name": "Whole meal flour yellow pigment content",
+"observationVariables": [
+"CO_321:0001423"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000678",
+"traitId": "CO_321:0000678",
+"name": "Boron tolerance",
+"observationVariables": [
+"CO_321:0001078"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000679",
+"traitId": "CO_321:0000679",
+"name": "Herbicide damage",
+"observationVariables": [
+"CO_321:0001242"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000680",
+"traitId": "CO_321:0000680",
+"name": "Plant vigour",
+"observationVariables": [
+"CO_321:0001312"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000681",
+"traitId": "CO_321:0000681",
+"name": "Rhizoctonia root rot incidence",
+"observationVariables": [
+"CO_321:0001325"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000682",
+"traitId": "CO_321:0000682",
+"name": "Root disease development",
+"observationVariables": [
+"CO_321:0001327"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000683",
+"traitId": "CO_321:0000683",
+"name": "Sharp eyespot incidence",
+"observationVariables": [
+"CO_321:0001357"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000684",
+"traitId": "CO_321:0000684",
+"name": "Spike disease development",
+"observationVariables": [
+"CO_321:0001363"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000685",
+"traitId": "CO_321:0000685",
+"name": "Worm damage",
+"observationVariables": [
+"CO_321:0001427"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000686",
+"traitId": "CO_321:0000686",
+"name": "Helminthosporium species severity",
+"observationVariables": [
+"CO_321:0001240",
+"CO_321:0001241",
+"CO_321:0001442"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000687",
+"traitId": "CO_321:0000687",
+"name": "Leaf rust notes",
+"observationVariables": [
+"CO_321:0001265"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000688",
+"traitId": "CO_321:0000688",
+"name": "Stem rust coefficient of infection",
+"observationVariables": [
+"CO_321:0001379"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000689",
+"traitId": "CO_321:0000689",
+"name": "Stripe rust coefficient of infection",
+"observationVariables": [
+"CO_321:0001391"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000692",
+"traitId": "CO_321:0000692",
+"name": "Barley leaf rust coefficient of infection",
+"observationVariables": [
+"CO_321:0001059"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000710",
+"traitId": "CO_321:0000710",
+"name": "Barley scald severity",
+"observationVariables": [
+"CO_321:0001064",
+"CO_321:0001065",
+"CO_321:0001439"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000711",
+"traitId": "CO_321:0000711",
+"name": "Fusarium head blight spikelet incidence",
+"observationVariables": [
+"CO_321:0001161",
+"CO_321:0001162"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000714",
+"traitId": "CO_321:0000714",
+"name": "Septoria blotch severity",
+"observationVariables": [
+"CO_321:0001342",
+"CO_321:0001343",
+"CO_321:0001344",
+"CO_321:0001445"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000715",
+"traitId": "CO_321:0000715",
+"name": "Septoria blotch plant response",
+"observationVariables": [
+"CO_321:0001340",
+"CO_321:0001341"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000717",
+"traitId": "CO_321:0000717",
+"name": "Septoria nodorum blotch severity",
+"observationVariables": [
+"CO_321:0001349",
+"CO_321:0001446"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000718",
+"traitId": "CO_321:0000718",
+"name": "Septoria tritici blotch severity",
+"observationVariables": [
+"CO_321:0001355",
+"CO_321:0001356",
+"CO_321:0001447"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000719",
+"traitId": "CO_321:0000719",
+"name": "Septoria tritici blotch plant response",
+"observationVariables": [
+"CO_321:0001354"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000723",
+"traitId": "CO_321:0000723",
+"name": "Spot blotch severity",
+"observationVariables": [
+"CO_321:0001374",
+"CO_321:0001375",
+"CO_321:0001448"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000897",
+"traitId": "CO_321:0000897",
+"name": "Leaf rust coefficient of infection",
+"observationVariables": [
+"CO_321:0001262"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000898",
+"traitId": "CO_321:0000898",
+"name": "Leaf rust incidence",
+"observationVariables": [
+"CO_321:0001263"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000899",
+"traitId": "CO_321:0000899",
+"name": "Leaf rust legacy",
+"observationVariables": [
+"CO_321:0001264"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000901",
+"traitId": "CO_321:0000901",
+"name": "Leaf rust seedling response",
+"observationVariables": [
+"CO_321:0001269"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000902",
+"traitId": "CO_321:0000902",
+"name": "Leaf rust severity",
+"observationVariables": [
+"CO_321:0001270",
+"CO_321:0001271"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000903",
+"traitId": "CO_321:0000903",
+"name": "Stem rust notes",
+"observationVariables": [
+"CO_321:0001380"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000904",
+"traitId": "CO_321:0000904",
+"name": "Stem rust seedling response",
+"observationVariables": [
+"CO_321:0001382"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000905",
+"traitId": "CO_321:0000905",
+"name": "Stem rust severity",
+"observationVariables": [
+"CO_321:0001383",
+"CO_321:0001384"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000906",
+"traitId": "CO_321:0000906",
+"name": "Stripe rust incidence",
+"observationVariables": [
+"CO_321:0001392"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000907",
+"traitId": "CO_321:0000907",
+"name": "Stripe rust notes",
+"observationVariables": [
+"CO_321:0001393"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000908",
+"traitId": "CO_321:0000908",
+"name": "Stripe rust severity",
+"observationVariables": [
+"CO_321:0001396",
+"CO_321:0001397"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000909",
+"traitId": "CO_321:0000909",
+"name": "Stripe rust spike severity",
+"observationVariables": [
+"CO_321:0001398"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000910",
+"traitId": "CO_321:0000910",
+"name": "Tan spot incidence",
+"observationVariables": [
+"CO_321:0001402",
+"CO_321:0001403"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000911",
+"traitId": "CO_321:0000911",
+"name": "Tan spot seedling response",
+"observationVariables": [
+"CO_321:0001405"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000912",
+"traitId": "CO_321:0000912",
+"name": "Spot blotch incidence",
+"observationVariables": [
+"CO_321:0001370",
+"CO_321:0001371"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000913",
+"traitId": "CO_321:0000913",
+"name": "Spot blotch legacy",
+"observationVariables": [
+"CO_321:0001372",
+"CO_321:0001373"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000914",
+"traitId": "CO_321:0000914",
+"name": "Septoria blotch incidence",
+"observationVariables": [
+"CO_321:0001337"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000916",
+"traitId": "CO_321:0000916",
+"name": "Septoria blotch legacy",
+"observationVariables": [
+"CO_321:0001338",
+"CO_321:0001339"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000917",
+"traitId": "CO_321:0000917",
+"name": "Septoria nodorum blotch incidence",
+"observationVariables": [
+"CO_321:0001345",
+"CO_321:0001346"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000918",
+"traitId": "CO_321:0000918",
+"name": "Septoria nodorum blotch legacy",
+"observationVariables": [
+"CO_321:0001347",
+"CO_321:0001348"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000919",
+"traitId": "CO_321:0000919",
+"name": "Septoria tritici blotch incidence",
+"observationVariables": [
+"CO_321:0001350",
+"CO_321:0001351"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000920",
+"traitId": "CO_321:0000920",
+"name": "Septoria tritici blotch legacy",
+"observationVariables": [
+"CO_321:0001352",
+"CO_321:0001353"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000921",
+"traitId": "CO_321:0000921",
+"name": "Loose smut incidence",
+"observationVariables": [
+"CO_321:0001285",
+"CO_321:0001286"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000922",
+"traitId": "CO_321:0000922",
+"name": "Helminthosporium species incidence",
+"observationVariables": [
+"CO_321:0001238"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000923",
+"traitId": "CO_321:0000923",
+"name": "Helminthosporium species legacy",
+"observationVariables": [
+"CO_321:0001239"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000924",
+"traitId": "CO_321:0000924",
+"name": "Fusarium graminearum incidence",
+"observationVariables": [
+"CO_321:0001148",
+"CO_321:0001149"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000925",
+"traitId": "CO_321:0000925",
+"name": "Fusarium graminearum plant response",
+"observationVariables": [
+"CO_321:0001150"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000926",
+"traitId": "CO_321:0000926",
+"name": "Fusarium graminearum severity",
+"observationVariables": [
+"CO_321:0001151",
+"CO_321:0001152",
+"CO_321:0001440"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000927",
+"traitId": "CO_321:0000927",
+"name": "Fusarium head blight grain incidence",
+"observationVariables": [
+"CO_321:0001155"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000928",
+"traitId": "CO_321:0000928",
+"name": "Fusarium head blight spike incidence",
+"observationVariables": [
+"CO_321:0001156",
+"CO_321:0001157"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000929",
+"traitId": "CO_321:0000929",
+"name": "Fusarium head blight spike response",
+"observationVariables": [
+"CO_321:0001158",
+"CO_321:0001159"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000930",
+"traitId": "CO_321:0000930",
+"name": "Fusarium leaf blotch incidence",
+"observationVariables": [
+"CO_321:0001163",
+"CO_321:0001164"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000931",
+"traitId": "CO_321:0000931",
+"name": "Bacterial leaf blight incidence",
+"observationVariables": [
+"CO_321:0001053"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000932",
+"traitId": "CO_321:0000932",
+"name": "Bacterial leaf blight severity",
+"observationVariables": [
+"CO_321:0001054",
+"CO_321:0001438"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000933",
+"traitId": "CO_321:0000933",
+"name": "Barley Helminthosporium leaf stripe incidence",
+"observationVariables": [
+"CO_321:0001056",
+"CO_321:0001057",
+"CO_321:0001058"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000935",
+"traitId": "CO_321:0000935",
+"name": "Barley leaf rust incidence",
+"observationVariables": [
+"CO_321:0001060"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000936",
+"traitId": "CO_321:0000936",
+"name": "Barley scald incidence",
+"observationVariables": [
+"CO_321:0001063"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000937",
+"traitId": "CO_321:0000937",
+"name": "Powdery mildew incidence",
+"observationVariables": [
+"CO_321:0001313",
+"CO_321:0001314",
+"CO_321:0001315",
+"CO_321:0001316",
+"CO_321:0001317"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000938",
+"traitId": "CO_321:0000938",
+"name": "Powdery mildew legacy",
+"observationVariables": [
+"CO_321:0001318"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000939",
+"traitId": "CO_321:0000939",
+"name": "Powdery mildew severity",
+"observationVariables": [
+"CO_321:0001319",
+"CO_321:0001320",
+"CO_321:0001444"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000940",
+"traitId": "CO_321:0000940",
+"name": "Terminal spikelet time",
+"observationVariables": [
+"CO_321:0001408",
+"CO_321:0001409"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000960",
+"traitId": "CO_321:0000960",
+"name": "Awn color",
+"observationVariables": [
+"CO_321:0001453"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000961",
+"traitId": "CO_321:0000961",
+"name": "Canopy green normalized difference vegetation index",
+"observationVariables": [
+"CO_321:0001454"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000962",
+"traitId": "CO_321:0000962",
+"name": "Canopy red normalized difference vegetation index",
+"observationVariables": [
+"CO_321:0001455"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000963",
+"traitId": "CO_321:0000963",
+"name": "Winter survival",
+"observationVariables": [
+"CO_321:0001452"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000966",
+"traitId": "CO_321:0000966",
+"name": "Grain amylopectin content",
+"observationVariables": [
+"CO_321:0001456"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000967",
+"traitId": "CO_321:0000967",
+"name": "Grain lysine content",
+"observationVariables": [
+"CO_321:0001457"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000970",
+"traitId": "CO_321:0000970",
+"name": "Rachis length",
+"observationVariables": [
+"CO_321:0001458"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000971",
+"traitId": "CO_321:0000971",
+"name": "Spike type",
+"observationVariables": [
+"CO_321:0001459"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000972",
+"traitId": "CO_321:0000972",
+"name": "Stand establishment",
+"observationVariables": [
+"CO_321:0001460"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000973",
+"traitId": "CO_321:0000973",
+"name": "Stem color",
+"observationVariables": [
+"CO_321:0001461"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000974",
+"traitId": "CO_321:0000974",
+"name": "Straw breakage",
+"observationVariables": [
+"CO_321:0001462"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000975",
+"traitId": "CO_321:0000975",
+"name": "Straw color",
+"observationVariables": [
+"CO_321:0001463"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000976",
+"traitId": "CO_321:0000976",
+"name": "Straw strength",
+"observationVariables": [
+"CO_321:0001464"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000977",
+"traitId": "CO_321:0000977",
+"name": "Straw yield",
+"observationVariables": [
+"CO_321:0001465"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000978",
+"traitId": "CO_321:0000978",
+"name": "Whole meal flour ash content",
+"observationVariables": [
+"CO_321:0001466"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000979",
+"traitId": "CO_321:0000979",
+"name": "Grain length",
+"observationVariables": [
+"CO_321:0001467"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000980",
+"traitId": "CO_321:0000980",
+"name": "Grain width",
+"observationVariables": [
+"CO_321:0001468"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000981",
+"traitId": "CO_321:0000981",
+"name": "Grain thickness",
+"observationVariables": [
+"CO_321:0001469"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0000982",
+"traitId": "CO_321:0000982",
+"name": "Anther extrusion",
+"observationVariables": [
+"CO_321:0001482",
+"CO_321:0001483"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001019",
+"traitId": "CO_321:0001019",
+"name": "Bacterial leaf streak severity",
+"observationVariables": [
+"CO_321:0001055"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001031",
+"traitId": "CO_321:0001031",
+"name": "Wheat blast severity",
+"observationVariables": [
+"CO_321:0001450"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001032",
+"traitId": "CO_321:0001032",
+"name": "Forage dry matter",
+"observationVariables": [
+"CO_321:0001451"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001484",
+"traitId": "CO_321:0001484",
+"name": "Infertile spike number",
+"observationVariables": [
+"CO_321:0001595"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001485",
+"traitId": "CO_321:0001485",
+"name": "Rapid spike growth period",
+"observationVariables": [
+"CO_321:0001596"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001486",
+"traitId": "CO_321:0001486",
+"name": "Grain yield production rate",
+"observationVariables": [
+"CO_321:0001600"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001487",
+"traitId": "CO_321:0001487",
+"name": "Biomass production rate",
+"observationVariables": [
+"CO_321:0001601"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001488",
+"traitId": "CO_321:0001488",
+"name": "Terminal spikelet thermal time",
+"observationVariables": [
+"CO_321:0001602"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001489",
+"traitId": "CO_321:0001489",
+"name": "Booting initiation thermal time",
+"observationVariables": [
+"CO_321:0001603"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001490",
+"traitId": "CO_321:0001490",
+"name": "Booting thermal time",
+"observationVariables": [
+"CO_321:0001604"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001491",
+"traitId": "CO_321:0001491",
+"name": "Heading thermal time",
+"observationVariables": [
+"CO_321:0001605"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001492",
+"traitId": "CO_321:0001492",
+"name": "Anthesis thermal time",
+"observationVariables": [
+"CO_321:0001606"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001493",
+"traitId": "CO_321:0001493",
+"name": "Physiological maturity thermal time",
+"observationVariables": [
+"CO_321:0001607"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001494",
+"traitId": "CO_321:0001494",
+"name": "Spike photosynthesis contribution",
+"observationVariables": [
+"CO_321:0001610"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001495",
+"traitId": "CO_321:0001495",
+"name": "Fruiting efficiency",
+"observationVariables": [
+"CO_321:0001611"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001496",
+"traitId": "CO_321:0001496",
+"name": "Spike partitioning index",
+"observationVariables": [
+"CO_321:0001612"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001497",
+"traitId": "CO_321:0001497",
+"name": "Leaf lamina partitioning index",
+"observationVariables": [
+"CO_321:0001613"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001498",
+"traitId": "CO_321:0001498",
+"name": "Leaf sheath partitioning index",
+"observationVariables": [
+"CO_321:0001614"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001499",
+"traitId": "CO_321:0001499",
+"name": "True stem partitioning index",
+"observationVariables": [
+"CO_321:0001615"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001500",
+"traitId": "CO_321:0001500",
+"name": "Specific leaf area",
+"observationVariables": [
+"CO_321:0001616"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001501",
+"traitId": "CO_321:0001501",
+"name": "Leaf net photosynthesis rate",
+"observationVariables": [
+"CO_321:0001617"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001502",
+"traitId": "CO_321:0001502",
+"name": "Leaf light-saturated net photosynthesis",
+"observationVariables": [
+"CO_321:0001618"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001503",
+"traitId": "CO_321:0001503",
+"name": "Leaf light and carbon dioxide-saturated net photosynthesis",
+"observationVariables": [
+"CO_321:0001619"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001504",
+"traitId": "CO_321:0001504",
+"name": "Leaf intercellular carbon dioxide concentration",
+"observationVariables": [
+"CO_321:0001620"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001505",
+"traitId": "CO_321:0001505",
+"name": "Leaf quantum yield of photosystem II",
+"observationVariables": [
+"CO_321:0001621"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001506",
+"traitId": "CO_321:0001506",
+"name": "Leaf quantum yield of carbon dioxide fixation",
+"observationVariables": [
+"CO_321:0001622"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001507",
+"traitId": "CO_321:0001507",
+"name": "Leaf electron transport rate",
+"observationVariables": [
+"CO_321:0001623"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001508",
+"traitId": "CO_321:0001508",
+"name": "Leaf maximal fluorescence intensity",
+"observationVariables": [
+"CO_321:0001624",
+"CO_321:0001625"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001509",
+"traitId": "CO_321:0001509",
+"name": "Leaf minimal fluorescence intensity",
+"observationVariables": [
+"CO_321:0001626",
+"CO_321:0001627"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001510",
+"traitId": "CO_321:0001510",
+"name": "leaf variable fluorescence",
+"observationVariables": [
+"CO_321:0001628",
+"CO_321:0001629"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001511",
+"traitId": "CO_321:0001511",
+"name": "Leaf maximum efficiency of PSII photochemistry",
+"observationVariables": [
+"CO_321:0001630",
+"CO_321:0001631"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001512",
+"traitId": "CO_321:0001512",
+"name": "Leaf steady-state fluorescence",
+"observationVariables": [
+"CO_321:0001632"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001513",
+"traitId": "CO_321:0001513",
+"name": "Leaf transpiration rate",
+"observationVariables": [
+"CO_321:0001633"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001514",
+"traitId": "CO_321:0001514",
+"name": "Leaf intercellular to ambient carbon dioxide ratio",
+"observationVariables": [
+"CO_321:0001634"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001515",
+"traitId": "CO_321:0001515",
+"name": "Canopy light interception",
+"observationVariables": [
+"CO_321:0001635"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001516",
+"traitId": "CO_321:0001516",
+"name": "Radiation use efficiency",
+"observationVariables": [
+"CO_321:0001636",
+"CO_321:0001637"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001517",
+"traitId": "CO_321:0001517",
+"name": "Pigment simple ratio chlorophyll a",
+"observationVariables": [
+"CO_321:0001638"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001518",
+"traitId": "CO_321:0001518",
+"name": "Pigment simple ratio chlorophyll b",
+"observationVariables": [
+"CO_321:0001639"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001519",
+"traitId": "CO_321:0001519",
+"name": "Leaf spectral reflectance 675 nm",
+"observationVariables": [
+"CO_321:0001640"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001520",
+"traitId": "CO_321:0001520",
+"name": "Leaf spectral reflectance 550 nm",
+"observationVariables": [
+"CO_321:0001641"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001521",
+"traitId": "CO_321:0001521",
+"name": "Leaf spectral reflectance 750/550 nm",
+"observationVariables": [
+"CO_321:0001642"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001522",
+"traitId": "CO_321:0001522",
+"name": "Leaf spectral reflectance 750/700 nm",
+"observationVariables": [
+"CO_321:0001643"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001523",
+"traitId": "CO_321:0001523",
+"name": "Spike dry weight",
+"observationVariables": [
+"CO_321:0001644"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001524",
+"traitId": "CO_321:0001524",
+"name": "Flag leaf lamina length",
+"observationVariables": [
+"CO_321:0001645"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001525",
+"traitId": "CO_321:0001525",
+"name": "Flag leaf lamina width",
+"observationVariables": [
+"CO_321:0001646"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001526",
+"traitId": "CO_321:0001526",
+"name": "Grain weight per spike",
+"observationVariables": [
+"CO_321:0001647"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001527",
+"traitId": "CO_321:0001527",
+"name": "Stripe rust seedling response",
+"observationVariables": [
+"CO_321:0001648"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001528",
+"traitId": "CO_321:0001528",
+"name": "Leaf rolling severity",
+"observationVariables": [
+"CO_321:0001649"
+],
+"defaultValue": null
+},
+{
+"traitDbId": "CO_321:0001529",
+"traitId": "CO_321:0001529",
+"name": "Leaf rolling incidence",
+"observationVariables": [
+"CO_321:0001650"
+],
+"defaultValue": null
+}
+]
+}
