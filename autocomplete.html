@@ -60,9 +60,9 @@
         var id = ui.item.value.split(" - ")[1];
         if(id.match(/CO_\d{3}:\d{7}/)){
           //alert(ui.item.value.split(" - ")[1]);
-          $('#frame').attr('src', 'http://www.cropontology.org/terms/'+id+'/static-html?language=english');
+          $('#frame').attr('src', '//cropontology.org/terms/'+id+'/static-html?language=english');
         }else{
-          $('#frame').attr('src', 'http://artemide.art.uniroma2.it:8081/agrovoc/agrovoc/en/page/'+id);
+          $('#frame').attr('src', '//artemide.art.uniroma2.it:8081/agrovoc/agrovoc/en/page/'+id);
         }
       }
       
