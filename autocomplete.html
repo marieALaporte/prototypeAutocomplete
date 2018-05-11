@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Keyword Autocomplete</title>
   <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="css/styles.css">
+  <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
   <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
   <script>
@@ -23,7 +25,7 @@
       });
     return json;
     })();
-    var arrAgrovoc = $.map(agrovoc["results"]["bindings"], function(el) { 
+    var arrAgrovoc = $.map(agrovoc["results"]["bindings"], function(el) {
       return el["label"]["value"] + " - " + el["uri"]["value"].split("http://aims.fao.org/aos/agrovoc/")[1];
     });
     //console.log(arrAgrovoc)
@@ -45,7 +47,7 @@
       });
     return json;
     })();
-    var arrCO = $.map(co["result"], function(el) { 
+    var arrCO = $.map(co["result"], function(el) {
       return el["name"] +" - "+ el["traitId"];
     });
     //console.log(arrCO)
@@ -54,9 +56,9 @@
     $( "#tags" ).autocomplete({
       max:10,
       minLength:3,
-      source: arr, 
+      source: arr,
       select: function (e, ui) {
-        
+
         var id = ui.item.value.split(" - ")[1];
         if(id.match(/CO_\d{3}:\d{7}/)){
           //alert(ui.item.value.split(" - ")[1]);
@@ -65,21 +67,31 @@
           $('#frame').attr('src', 'http://artemide.art.uniroma2.it:8081/agrovoc/agrovoc/en/page/'+id);
         }
       }
-      
+
     });
   } );
   </script>
 </head>
+
+
 <body>
-<img src="https://cgspace.cgiar.org/bitstream/handle/10947/2622/CGIAR%20green%20logo.jpg?sequence=1" alt="CGIAR logo" style="float:left"; height="5%" width="5%">
-<h1> Protoype of an ontology look up service for Dataverse </h1>
-<div>
-  <div class="ui-widget" >
+<div class="body-wrapper">
+
+  <div class="top-box clearfix">
+    <img src="https://cgspace.cgiar.org/bitstream/handle/10947/2622/CGIAR%20green%20logo.jpg?sequence=1" alt="CGIAR logo">
+    <h1> Protoype of an ontology look up service for Dataverse </h1>
+  </div>
+
+  <div class="ui-widget keyword-hints" >
     <label for="tags">Keyword: </label>
     <input id="tags">
   </div>
 
-  <iframe frameborder="0" id="frame" height="700px" width="70%" style="float:left"></iframe> 
-</div>  
+  <div>
+    <iframe frameborder="0" id="frame" height="700px"></iframe>
+  </div>
+
+</div>
+<!-- end .body-wrapper -->
 </body>
 </html>
