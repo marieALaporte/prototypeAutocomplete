@@ -47,9 +47,11 @@ table {
 	border-spacing: 0;
 }
 
+h1, h2, h3, h4, h5 {
+	font-family: 'Roboto Slab', serif;
+}
 h1 {
   font-size: 40px;
-  font-family: 'Pacifico', cursive;
 }
 .clearfix:after {
   visibility: hidden;
@@ -65,7 +67,7 @@ h1 {
   margin: auto;
 }
 .top-box {
-  margin-bottom: 40px;
+  margin-bottom: 80px;
 }
 .top-box img {
   width: 110px;
@@ -82,15 +84,15 @@ h1 {
 
 .keyword-hints {
   margin-left: 110px; /* width of logo */
-	font-size: 1.2rem;
+	font-siz	e: 1.2rem;
 	font-weight: 700;
 	margin-bottom: 40px;
 }
 
 
 #tags {
-	height: 30px;
-	width: 230px;
+	height: 45px;
+	width: 400px;
 	margin-left: 20px;
 	font-size: 1rem;
 	padding: 0 10px;
