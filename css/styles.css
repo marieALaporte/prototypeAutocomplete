@@ -48,10 +48,10 @@ table {
 }
 
 h1, h2, h3, h4, h5 {
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Montserrat', sans-serif;
 }
 h1 {
-  font-size: 40px;
+  font-size: 36px;
 }
 .clearfix:after {
   visibility: hidden;
@@ -67,7 +67,7 @@ h1 {
   margin: auto;
 }
 .top-box {
-  margin-bottom: 80px;
+  margin-bottom: 40px;
 }
 .top-box img {
   width: 110px;
@@ -75,15 +75,17 @@ h1 {
 }
 .top-box h1 {
   float: left;
-  margin-top: 50px;
+  margin-top: 52px;
+  margin-left: 15px;
 }
-.top-box h1::first-letter {
-  font-size: 70px;
-  letter-spacing: -10px
-}
+#.top-box h1::first-letter {
+#  font-size: 70px;
+#  letter-spacing: -10px
+#}
 
 .keyword-hints {
-  margin-left: 110px; /* width of logo */
+  font-family: Montserrat, sans-serif; 
+  margin-left: 125px; /* width of logo */
 	font-siz	e: 1.2rem;
 	font-weight: 700;
 	margin-bottom: 40px;
